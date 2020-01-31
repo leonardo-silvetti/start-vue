@@ -1,4 +1,4 @@
-# NativeScript-Vue Application
+# start-vue
 
 > A native application built with NativeScript-Vue
 
